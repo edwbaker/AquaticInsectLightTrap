@@ -1,0 +1,37 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=NightLife-$LED
+*Date=17:49:28
+*CreatedBy=Fritzing 0.8.7b.01.24.1bf5
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;28.6215;-1.80329;0;Bottom;TXT1
+2;;;5.09124;-9.08296;0;Bottom;Via3
+3;220;THT;31.1121;-9.59095;-90;Bottom;R4
+4;220;THT;26.3708;-9.47806;-90;Bottom;R3
+5;100nF;100 mil [THT, multilayer];37.9137;-3.9465;0;Bottom;C1
+6;;5 mm [THT];11.2437;-13.4155;-180;Bottom;LED2
+7;;TO92 [THT];36.3939;-11.4324;-90;Bottom;Q2
+8;;;54.9317;-8.74429;0;Bottom;Via2
+9;;5 mm [THT];3.62369;-13.4155;-180;Bottom;LED4
+10;;;25.6822;-8.32462;0;Bottom;Via6
+11;3V;;54.2826;-12.3003;-90;Bottom;VCC1
+12;;TO92 [THT];41.8126;-11.376;-90;Bottom;Q3
+13;;5 mm [THT];3.56725;-4.49726;-180;Bottom;LED1
+14;;THT;19.7104;-9.64739;-90;Bottom;R2
+15;;5 mm [THT];11.0179;-4.32793;-180;Bottom;LED3
+16;;;48.0939;-8.97806;0;Bottom;Via1
+17;;400 mil [THT];50.6419;-15.1789;0;Bottom;L1
+18;;THT;52.561;-4.53917;0;Bottom;R1
+19;;TO92 [THT];44.0732;-6.3976;0;Bottom;Q1
+20;;;45.1894;-11.3726;0;Bottom;Via5
+21;220;THT;28.7415;-9.59095;-90;Bottom;R5
+22;;;12.0904;-9.1394;0;Bottom;Via4
